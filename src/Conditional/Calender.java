@@ -8,7 +8,7 @@ public class Calender {
 
         System.out.println("-------:Choose Your Months:---------");
         System.out.println("1.January");
-        System.out.println("2.Feburary");
+        System.out.println("2.February");
         System.out.println("3.March");
         System.out.println("4.April");
         System.out.println("5.May");
